@@ -12,5 +12,5 @@ hello Melody!  hello Git!
 hello Melody!  hello Git!
 hello Melody!  hello Git!
 hello Melody!  hello Git!
-hello Melody!  hello Git!
+hello Melody!  hello Git!  master test
 hello Melody!  hello Git!
